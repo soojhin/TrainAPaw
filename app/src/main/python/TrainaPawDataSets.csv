@@ -1,0 +1,2002 @@
+Users,Breed,Age,Training,Rating,Difficulty Level,Dog Response,Duration Preferences
+1,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+2,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+3,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+4,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+5,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+6,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+7,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+8,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+9,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+10,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+11,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+12,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+13,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+14,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+15,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+16,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+17,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+18,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+19,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+20,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+21,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+22,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+23,Pug,19,Off Leash Sit,4.2,Advanced,Very Responsive,Multiple Short Sessions per Day
+24,Bulldog,19,Off Leash Down Stay,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+25,Aspin,18,Off Leash Sit Stay,3,Advanced,Focused but Distractible,Long Sessions
+26,German Shepherd,5,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+27,Pug,22,Off Leash Sit Stay,2,Advanced,Confident Learner,Multiple Short Sessions per Day
+28,Shih Tzu,3,Down Stay,3,Basic,Focused but Distractible,No strict preference
+29,Golden Retriever,21,Off Leash Sit Stay,3,Advanced,Shy or Timid,Long Sessions
+30,Shih Tzu,11,Shake Hands,3.6,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+31,Labrador Retriever,20,On and Off Sight Stay,4.7,Advanced,Very Responsive to Treats,Long Sessions
+32,Pomeranian,13,Off Leash Down,4.6,Intermediate,Very Responsive,Short Sessions
+33,German Shepherd,19,Off Leash Commands,4.3,Advanced,Needs More Guidance,Long Sessions
+34,Pomeranian,15,Off Leash Commands,3,Advanced,Very Responsive,Medium Sessions
+35,Labrador Retriever,12,Loose Leash Heeling,5,Intermediate,Very Responsive to Treats,Multiple Short Sessions per Day
+36,Aspin,6,Watch Me,5,Basic,Shy or Timid,Short Sessions
+37,Siberian Husky,21,Long Stay Off Leash,2,Advanced,Working on Tricks,No strict preference
+38,Beagle,11,Loose Leash Commands,5,Intermediate,Focused but Distractible,Medium Sessions
+39,Golden Retriever,21,Off Leash Down Stay,3,Advanced,Working on Tricks,Medium Sessions
+40,Shih Tzu,12,Fetch,3,Intermediate,Focused but Distractible,Medium Sessions
+41,Rottweiler,4,Down Stay,2.2,Basic,Confident Learner,Long Sessions
+42,Golden Retriever,23,Off Leash Sit,2,Advanced,Shy or Timid,Long Sessions
+43,German Shepherd,14,Long Stay Off Leash,3,Advanced,Confident Learner,Multiple Short Sessions per Day
+44,Chihuahua,7,Loose Leash Commands,5,Intermediate,Focused but Distractible,Medium Sessions
+45,Siberian Husky,17,Off Leash Sit Stay,3,Advanced,Very Responsive,Multiple Short Sessions per Day
+46,German Shepherd,20,Off Leash Commands,3,Advanced,Very Responsive,Long Sessions
+47,Dalmatian,15,Off Leash Down,2.4,Advanced,Working on Tricks,No strict preference
+48,Beagle,17,Off Leash Down,3,Advanced,Confident Learner,No strict preference
+49,Dalmatian,6,Sit,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+50,Pomeranian,18,Off Leash Sit,5,Advanced,Shy or Timid,No strict preference
+51,Shih Tzu,10,Roll Over,3.3,Intermediate,Needs More Guidance,Long Sessions
+52,Beagle,17,Off Leash Sit Stay,4.3,Advanced,Working on Tricks,No strict preference
+53,Siberian Husky,16,Off Leash Sit Stay,2.9,Advanced,Confident Learner,No strict preference
+54,Dalmatian,15,Off Leash Sit,4,Advanced,Very Responsive to Treats,Multiple Short Sessions per Day
+55,Pomeranian,11,Shake Hands,3.7,Intermediate,Focused but Distractible,Medium Sessions
+56,Aspin,24,Long Stay Off Leash,2.3,Advanced,Focused but Distractible,No strict preference
+57,Doberman Pinscher,14,Off Leash Down Stay,5,Advanced,Confident Learner,Multiple Short Sessions per Day
+58,Pomeranian,1,Imprinting,5,Basic,Confident Learner,Multiple Short Sessions per Day
+59,German Shepherd,19,On and Off Sight Stay,4.2,Advanced,Very Responsive to Treats,Medium Sessions
+60,Shih Tzu,19,Off Leash Down,3.1,Advanced,Confident Learner,Long Sessions
+61,Dalmatian,10,Roll Over,2,Intermediate,Needs More Guidance,Long Sessions
+62,German Shepherd,13,On and Off Sight Stay,4,Intermediate,Working on Tricks,Long Sessions
+63,Shih Tzu,23,On and Off Sight Stay,3,Advanced,Shy or Timid,Medium Sessions
+64,Labrador Retriever,2,Wait,5,Basic,Very Responsive,Short Sessions
+65,Labrador Retriever,11,Loose Leash Commands,3,Intermediate,Very Responsive,No strict preference
+66,Beagle,5,Sit,3,Basic,Shy or Timid,No strict preference
+67,Labrador Retriever,1,Sit,4,Basic,Very Responsive to Treats,Long Sessions
+68,Doberman Pinscher,17,Long Stay Off Leash,4.3,Advanced,Quick Learner,Short Sessions
+69,Beagle,20,Off Leash Down,2.9,Advanced,Focused but Distractible,Short Sessions
+70,Rottweiler,16,Off Leash Down,4,Advanced,Working on Tricks,Short Sessions
+71,Pomeranian,23,Off Leash Sit Stay,3.7,Advanced,Very Responsive to Treats,Short Sessions
+72,Golden Retriever,7,Loose Leash Walking,2.3,Intermediate,Confident Learner,Long Sessions
+73,Bulldog,15,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Short Sessions
+74,Shih Tzu,4,Wait,5,Basic,Very Responsive to Treats,No strict preference
+75,Doberman Pinscher,14,Off Leash Sit,4.2,Advanced,Shy or Timid,Short Sessions
+76,Doberman Pinscher,1,Watch Me,3.1,Basic,Confident Learner,Multiple Short Sessions per Day
+77,Pug,13,On and Off Sight Stay,3,Intermediate,Very Responsive,Short Sessions
+78,Beagle,2,Down,4,Basic,Quick Learner,Short Sessions
+79,Bulldog,20,On and Off Sight Stay,2,Advanced,Very Responsive,Medium Sessions
+80,Doberman Pinscher,4,Wait,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+81,Dalmatian,13,On and Off Sight Stay,3,Intermediate,Shy or Timid,Long Sessions
+82,Labrador Retriever,17,Off Leash Commands,3.6,Advanced,Focused but Distractible,Medium Sessions
+83,Chihuahua,23,Off Leash Sit Stay,4.7,Advanced,Focused but Distractible,No strict preference
+84,Dalmatian,18,On and Off Sight Stay,4.6,Advanced,Shy or Timid,No strict preference
+85,Pomeranian,14,Off Leash Down,4,Advanced,Very Responsive to Treats,No strict preference
+86,Aspin,12,Shake Hands,3.3,Intermediate,Working on Tricks,No strict preference
+87,Pug,17,Off Leash Down,4.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+88,Labrador Retriever,7,Roll Over,2.9,Intermediate,Needs More Guidance,Medium Sessions
+89,German Shepherd,15,Off Leash Sit Stay,4,Advanced,Focused but Distractible,Long Sessions
+90,Beagle,24,Off Leash Down,3.7,Advanced,Working on Tricks,Multiple Short Sessions per Day
+91,Chihuahua,16,Long Stay Off Leash,2.3,Advanced,Quick Learner,Medium Sessions
+92,Labrador Retriever,21,Off Leash Down,5,Advanced,Shy or Timid,Long Sessions
+93,Golden Retriever,2,Down,5,Basic,Focused but Distractible,Long Sessions
+94,Pomeranian,8,Shake Hands,4.2,Intermediate,Confident Learner,Short Sessions
+95,Chihuahua,14,Off Leash Sit,3.1,Advanced,Very Responsive to Treats,No strict preference
+96,Rottweiler,16,On and Off Sight Stay,3,Advanced,Very Responsive,Medium Sessions
+97,German Shepherd,15,Off Leash Sit Stay,4,Advanced,Focused but Distractible,Medium Sessions
+98,Aspin,10,Fetch,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+99,Golden Retriever,13,Off Leash Sit,5,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+100,Beagle,11,Loose Leash Walking,5,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+101,Pug,21,Off Leash Sit,2,Advanced,Focused but Distractible,Short Sessions
+102,Dalmatian,6,Off Leash Sit,3.3,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+103,German Shepherd,15,Off Leash Sit,4.3,Intermediate,Quick Learner,Long Sessions
+104,Poodle,3,Sit,2.9,Advanced,Quick Learner,Medium Sessions
+105,Chihuahua,20,Fetch,4,Basic,Very Responsive,No strict preference
+106,Beagle,10,Off Leash Down Stay,3.7,Advanced,Quick Learner,Short Sessions
+107,German Shepherd,19,Play Dead,2.3,Basic,Working on Tricks,Long Sessions
+108,Pug,6,Off Leash Sit,5,Advanced,Confident Learner,Short Sessions
+109,Dalmatian,18,Heel,5,Intermediate,Quick Learner,Multiple Short Sessions per Day
+110,Golden Retriever,21,On and Off Sight Stay,4.2,Advanced,Needs More Guidance,Long Sessions
+111,Chihuahua,16,Sit,3.1,Basic,Confident Learner,Medium Sessions
+112,Labrador Retriever,8,Off Leash Sit Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+113,Chihuahua,10,Shake Hands,4,Advanced,Confident Learner,No strict preference
+114,Golden Retriever,20,Long Stay Off Leash,5,Advanced,Working on Tricks,Long Sessions
+115,Pomeranian,19,Sit Stay,4,Intermediate,Very Responsive,Medium Sessions
+116,Pomeranian,18,Long Stay Off Leash,1,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+117,Dalmatian,19,Off Leash Down Stay,4.3,Advanced,Focused but Distractible,Short Sessions
+118,Chihuahua,19,Off Leash Sit,2.9,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+119,Beagle,18,Roll Over,4,Advanced,Very Responsive,Medium Sessions
+120,Beagle,5,Loose Leash Walking,3.7,Advanced,Focused but Distractible,Medium Sessions
+121,Pug,22,Long Stay Off Leash,2.3,Advanced,Focused but Distractible,Medium Sessions
+122,Pomeranian,3,On and Off Sight Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+123,Rottweiler,21,Off Leash Down Stay,5,Basic,Quick Learner,Multiple Short Sessions per Day
+124,Pug,11,Off Leash Sit,4.2,Advanced,Quick Learner,Multiple Short Sessions per Day
+125,Bulldog,20,Off Leash Down Stay,3.1,Basic,Very Responsive,Multiple Short Sessions per Day
+126,Aspin,13,Off Leash Sit Stay,3,Advanced,Quick Learner,Long Sessions
+127,German Shepherd,19,Heel,4,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+128,Pug,15,Off Leash Sit Stay,2,Advanced,Confident Learner,Multiple Short Sessions per Day
+129,Shih Tzu,12,Down Stay,3,Advanced,Quick Learner,No strict preference
+130,Golden Retriever,6,Off Leash Sit Stay,3,Advanced,Needs More Guidance,Long Sessions
+131,Shih Tzu,21,Shake Hands,3.6,Advanced,Confident Learner,Multiple Short Sessions per Day
+132,Labrador Retriever,11,On and Off Sight Stay,4.7,Intermediate,Focused but Distractible,Long Sessions
+133,Pomeranian,21,Off Leash Down,4.6,Basic,Confident Learner,Short Sessions
+134,German Shepherd,12,Off Leash Commands,3.3,Advanced,Working on Tricks,Long Sessions
+135,Pomeranian,4,Off Leash Commands,4.3,Intermediate,Focused but Distractible,Medium Sessions
+136,Labrador Retriever,23,Loose Leash Heeling,2.9,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+137,Aspin,14,Watch Me,4,Intermediate,Needs More Guidance,Short Sessions
+138,Siberian Husky,7,Long Stay Off Leash,3.7,Basic,Quick Learner,No strict preference
+139,Beagle,17,Loose Leash Commands,2.3,Advanced,Quick Learner,Medium Sessions
+140,Golden Retriever,20,Off Leash Down Stay,5,Advanced,Very Responsive,Medium Sessions
+141,Shih Tzu,15,Fetch,5,Intermediate,Quick Learner,Medium Sessions
+142,Rottweiler,17,Down Stay,4.2,Advanced,Working on Tricks,Long Sessions
+143,Golden Retriever,6,Off Leash Sit,3.1,Advanced,Confident Learner,Long Sessions
+144,German Shepherd,18,Long Stay Off Leash,3,Advanced,Quick Learner,Multiple Short Sessions per Day
+145,Chihuahua,10,Loose Leash Commands,2,Advanced,Needs More Guidance,Medium Sessions
+146,Siberian Husky,17,Off Leash Sit Stay,3.3,Basic,Confident Learner,Multiple Short Sessions per Day
+147,German Shepherd,6,Off Leash Commands,4.3,Advanced,Focused but Distractible,Long Sessions
+148,Dalmatian,15,Off Leash Down,2.9,Intermediate,Focused but Distractible,No strict preference
+149,Beagle,3,Off Leash Down,4,Advanced,Focused but Distractible,No strict preference
+150,Dalmatian,20,Sit,3.7,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+151,Pomeranian,10,Off Leash Sit,3.3,Advanced,Quick Learner,No strict preference
+152,Shih Tzu,19,Off Leash Sit,4.3,Intermediate,Quick Learner,Long Sessions
+153,Beagle,6,Sit,2.9,Advanced,Very Responsive,No strict preference
+154,Siberian Husky,18,Fetch,4,Advanced,Quick Learner,No strict preference
+155,Dalmatian,21,Off Leash Down Stay,3.7,Basic,Working on Tricks,Multiple Short Sessions per Day
+156,Pomeranian,16,Play Dead,2.3,Advanced,Confident Learner,Medium Sessions
+157,Aspin,8,Off Leash Sit,5,Advanced,Quick Learner,No strict preference
+158,Doberman Pinscher,10,Heel,5,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+159,Pomeranian,20,On and Off Sight Stay,4.2,Advanced,Confident Learner,Multiple Short Sessions per Day
+160,German Shepherd,19,Sit,3.1,Advanced,Focused but Distractible,Medium Sessions
+161,Shih Tzu,18,Off Leash Sit Stay,5,Basic,Confident Learner,Long Sessions
+162,Dalmatian,19,Shake Hands,1,Intermediate,Working on Tricks,Long Sessions
+163,German Shepherd,19,Long Stay Off Leash,4,Basic,Very Responsive,Long Sessions
+164,Shih Tzu,18,Sit Stay,5,Basic,Working on Tricks,Medium Sessions
+165,Labrador Retriever,5,Long Stay Off Leash,3.3,Advanced,Focused but Distractible,Short Sessions
+166,Labrador Retriever,22,Off Leash Down Stay,4.3,Advanced,Focused but Distractible,No strict preference
+167,Beagle,3,Off Leash Sit,2.9,Advanced,Very Responsive,No strict preference
+168,Labrador Retriever,21,Roll Over,4,Advanced,Working on Tricks,Long Sessions
+169,Doberman Pinscher,11,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Short Sessions
+170,Beagle,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Short Sessions
+171,Rottweiler,13,On and Off Sight Stay,5,Basic,Focused but Distractible,Short Sessions
+172,Pomeranian,19,Off Leash Down Stay,3.3,Advanced,Focused but Distractible,Short Sessions
+173,Golden Retriever,15,Off Leash Sit,4.3,Basic,Focused but Distractible,Long Sessions
+174,Bulldog,12,Off Leash Down Stay,2.9,Advanced,Focused but Distractible,Short Sessions
+175,Shih Tzu,6,Off Leash Sit Stay,4,Basic,Needs More Guidance,No strict preference
+176,Doberman Pinscher,21,Heel,3.7,Advanced,Quick Learner,Short Sessions
+177,Doberman Pinscher,11,Off Leash Sit Stay,2.3,Basic,Quick Learner,Multiple Short Sessions per Day
+178,Pug,21,Down Stay,5,Advanced,Very Responsive,Short Sessions
+179,Beagle,12,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Short Sessions
+180,Bulldog,4,Shake Hands,4.3,Advanced,Working on Tricks,Medium Sessions
+181,Doberman Pinscher,23,On and Off Sight Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+182,Dalmatian,14,Off Leash Down,4,Advanced,Quick Learner,Long Sessions
+183,Labrador Retriever,7,Off Leash Commands,3.7,Intermediate,Needs More Guidance,Medium Sessions
+184,Chihuahua,17,Off Leash Commands,2.3,Advanced,Confident Learner,No strict preference
+185,Dalmatian,20,Loose Leash Heeling,5,Intermediate,Focused but Distractible,No strict preference
+186,Pomeranian,15,Watch Me,5,Advanced,Confident Learner,No strict preference
+187,Aspin,17,Long Stay Off Leash,4.2,Advanced,Working on Tricks,No strict preference
+188,Pug,6,Loose Leash Commands,3.1,Advanced,Very Responsive,Multiple Short Sessions per Day
+189,Labrador Retriever,18,Off Leash Down Stay,5,Advanced,Working on Tricks,Medium Sessions
+190,German Shepherd,10,Fetch,3,Basic,Focused but Distractible,Long Sessions
+191,Beagle,17,Down Stay,3,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+192,Chihuahua,20,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+193,Labrador Retriever,15,Long Stay Off Leash,5,Advanced,Working on Tricks,Long Sessions
+194,Golden Retriever,17,Loose Leash Commands,3,Advanced,Focused but Distractible,Long Sessions
+195,Pomeranian,6,Off Leash Sit Stay,3.3,Intermediate,Focused but Distractible,Short Sessions
+196,Chihuahua,18,Off Leash Commands,4.3,Advanced,Focused but Distractible,No strict preference
+197,Rottweiler,10,Off Leash Down,2.9,Intermediate,Needs More Guidance,Medium Sessions
+198,German Shepherd,17,Off Leash Down,4,Advanced,Quick Learner,Medium Sessions
+199,Aspin,11,Sit,3.7,Basic,Quick Learner,Multiple Short Sessions per Day
+200,Golden Retriever,20,Off Leash Sit,3.3,Advanced,Very Responsive,Multiple Short Sessions per Day
+201,Beagle,13,Off Leash Sit,4.3,Basic,Quick Learner,Multiple Short Sessions per Day
+202,Pug,19,Sit,2.9,Advanced,Working on Tricks,Short Sessions
+203,Chihuahua,15,Fetch,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+204,Golden Retriever,12,Off Leash Down Stay,3.7,Advanced,Quick Learner,Long Sessions
+205,Pomeranian,6,Play Dead,2.3,Basic,Needs More Guidance,Medium Sessions
+206,Pomeranian,21,Off Leash Sit,5,Advanced,Confident Learner,No strict preference
+207,Dalmatian,11,Heel,5,Advanced,Focused but Distractible,Short Sessions
+208,Chihuahua,21,On and Off Sight Stay,3.3,Advanced,Confident Learner,Long Sessions
+209,Beagle,12,Sit,4.3,Intermediate,Working on Tricks,Short Sessions
+210,Beagle,4,Off Leash Sit Stay,2.9,Intermediate,Very Responsive,Multiple Short Sessions per Day
+211,Pug,23,Shake Hands,4,Advanced,Working on Tricks,Long Sessions
+212,Pomeranian,14,Long Stay Off Leash,3.7,Advanced,Focused but Distractible,Medium Sessions
+213,Rottweiler,7,Sit Stay,2.3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+214,Pug,17,Long Stay Off Leash,5,Advanced,Very Responsive,No strict preference
+215,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+216,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+217,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+218,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+219,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+220,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+221,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+222,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+223,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+224,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+225,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+226,Labrador Retriever,10,Off Leash Sit Stay,3.3,Intermediate,Quick Learner,Multiple Short Sessions per Day
+227,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+228,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+229,Beagle,18,Shake Hands,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+230,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+231,Shih Tzu,16,Off Leash Down,2.3,Intermediate,Working on Tricks,Long Sessions
+232,Rottweiler,8,Off Leash Commands,5,Basic,Very Responsive,Multiple Short Sessions per Day
+233,Golden Retriever,10,Off Leash Commands,5,Advanced,Working on Tricks,Long Sessions
+234,German Shepherd,20,Loose Leash Heeling,3.3,Advanced,Focused but Distractible,Short Sessions
+235,Chihuahua,19,Watch Me,4.3,Intermediate,Focused but Distractible,Long Sessions
+236,Siberian Husky,18,Long Stay Off Leash,2.9,Advanced,Very Responsive,Medium Sessions
+237,German Shepherd,19,Loose Leash Commands,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+238,Dalmatian,19,Off Leash Down Stay,3.7,Advanced,Focused but Distractible,Short Sessions
+239,Beagle,18,Fetch,2.3,Advanced,Very Responsive,No strict preference
+240,Dalmatian,5,Down Stay,5,Basic,Focused but Distractible,Medium Sessions
+241,Pomeranian,22,Off Leash Sit,5,Advanced,Focused but Distractible,Medium Sessions
+242,Shih Tzu,3,Long Stay Off Leash,3.3,Intermediate,Focused but Distractible,Medium Sessions
+243,Beagle,21,Loose Leash Commands,4.3,Advanced,Focused but Distractible,Long Sessions
+244,Siberian Husky,11,Off Leash Sit Stay,2.9,Basic,Needs More Guidance,Long Sessions
+245,Dalmatian,20,Off Leash Commands,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+246,Pomeranian,13,Off Leash Down,3.7,Basic,Quick Learner,Medium Sessions
+247,Aspin,19,Off Leash Down,2.3,Advanced,Very Responsive,Multiple Short Sessions per Day
+248,Doberman Pinscher,15,Sit,5,Intermediate,Quick Learner,Long Sessions
+249,Pomeranian,12,Off Leash Sit,5,Advanced,Working on Tricks,No strict preference
+250,German Shepherd,6,Off Leash Sit,4.2,Basic,Confident Learner,No strict preference
+251,Shih Tzu,21,Sit,3.1,Advanced,Quick Learner,Multiple Short Sessions per Day
+252,Dalmatian,11,Fetch,4,Advanced,Needs More Guidance,No strict preference
+253,German Shepherd,21,Off Leash Down Stay,3,Advanced,Confident Learner,Long Sessions
+254,Shih Tzu,12,Play Dead,3.3,Intermediate,Focused but Distractible,No strict preference
+255,Labrador Retriever,4,Off Leash Sit,4.3,Intermediate,Confident Learner,No strict preference
+256,Labrador Retriever,23,Heel,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+257,Beagle,14,On and Off Sight Stay,4,Advanced,Very Responsive,Medium Sessions
+258,Labrador Retriever,7,Sit,3.7,Advanced,Working on Tricks,No strict preference
+259,Doberman Pinscher,17,Off Leash Sit Stay,2.3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+260,Beagle,20,Shake Hands,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+261,Rottweiler,15,Long Stay Off Leash,5,Advanced,Very Responsive,Medium Sessions
+262,Pomeranian,17,Sit Stay,4.2,Basic,Working on Tricks,Long Sessions
+263,Golden Retriever,6,Long Stay Off Leash,3.1,Advanced,Focused but Distractible,Long Sessions
+264,Bulldog,18,Off Leash Down Stay,5,Basic,Very Responsive,Long Sessions
+265,Shih Tzu,10,Off Leash Sit,3.3,Advanced,Focused but Distractible,Medium Sessions
+266,Doberman Pinscher,17,Roll Over,4.3,Intermediate,Focused but Distractible,Short Sessions
+267,Doberman Pinscher,6,Loose Leash Walking,2.9,Advanced,Confident Learner,No strict preference
+268,Pug,15,Long Stay Off Leash,4,Advanced,Confident Learner,No strict preference
+269,Beagle,3,On and Off Sight Stay,3.7,Advanced,Focused but Distractible,Long Sessions
+270,Bulldog,20,Off Leash Down Stay,2.3,Advanced,Focused but Distractible,Short Sessions
+271,Doberman Pinscher,10,Off Leash Sit,5,Intermediate,Needs More Guidance,Short Sessions
+272,Dalmatian,19,Off Leash Down Stay,5,Basic,Quick Learner,Short Sessions
+273,Labrador Retriever,6,Off Leash Sit Stay,4.2,Advanced,Quick Learner,Short Sessions
+274,Chihuahua,18,Heel,3.1,Intermediate,Very Responsive,Long Sessions
+275,Dalmatian,21,Off Leash Sit Stay,2.9,Advanced,Quick Learner,Short Sessions
+276,Pomeranian,16,Down Stay,4,Intermediate,Working on Tricks,No strict preference
+277,Aspin,8,Off Leash Sit Stay,3.7,Basic,Confident Learner,Short Sessions
+278,Pug,10,Shake Hands,2.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+279,Labrador Retriever,20,On and Off Sight Stay,5,Advanced,Needs More Guidance,Short Sessions
+280,German Shepherd,19,Off Leash Down,5,Intermediate,Confident Learner,Short Sessions
+281,Beagle,18,Off Leash Commands,4.2,Advanced,Focused but Distractible,Medium Sessions
+282,Chihuahua,19,Off Leash Commands,3.1,Advanced,Confident Learner,Multiple Short Sessions per Day
+283,Labrador Retriever,19,Loose Leash Heeling,3,Advanced,Working on Tricks,Long Sessions
+284,Golden Retriever,18,Watch Me,5,Advanced,Very Responsive,Medium Sessions
+285,Pomeranian,5,Long Stay Off Leash,3,Basic,Working on Tricks,No strict preference
+286,Chihuahua,22,Loose Leash Commands,5,Advanced,Focused but Distractible,No strict preference
+287,Rottweiler,3,Off Leash Down Stay,5,Intermediate,Focused but Distractible,No strict preference
+288,German Shepherd,21,Fetch,4,Advanced,Focused but Distractible,No strict preference
+289,Aspin,11,Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+290,Golden Retriever,20,Off Leash Sit,3,Advanced,Needs More Guidance,Medium Sessions
+291,Beagle,13,Long Stay Off Leash,2,Advanced,Quick Learner,Long Sessions
+292,Pug,19,Loose Leash Commands,5,Basic,Quick Learner,Multiple Short Sessions per Day
+293,Beagle,15,Off Leash Sit Stay,5,Advanced,Very Responsive,Medium Sessions
+294,Pug,12,Off Leash Commands,3.3,Intermediate,Quick Learner,Long Sessions
+295,Pomeranian,6,Off Leash Down,4.3,Advanced,Working on Tricks,Long Sessions
+296,Rottweiler,21,Off Leash Down,2.9,Intermediate,Confident Learner,Short Sessions
+297,Pug,11,Sit,4,Advanced,Quick Learner,No strict preference
+298,Bulldog,21,Off Leash Sit,3.7,Advanced,Needs More Guidance,Medium Sessions
+299,Aspin,12,Off Leash Sit,2.3,Advanced,Confident Learner,Medium Sessions
+300,German Shepherd,4,Sit,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+301,Pug,23,Fetch,5,Intermediate,Confident Learner,Multiple Short Sessions per Day
+302,Shih Tzu,14,Off Leash Down Stay,4.2,Basic,Working on Tricks,Multiple Short Sessions per Day
+303,Golden Retriever,7,Play Dead,3.1,Advanced,Very Responsive,Short Sessions
+304,Shih Tzu,17,Off Leash Sit,2,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+305,Labrador Retriever,20,Heel,3,Advanced,Focused but Distractible,Long Sessions
+306,Pomeranian,15,On and Off Sight Stay,3,Intermediate,Focused but Distractible,Medium Sessions
+307,German Shepherd,17,Sit,4,Basic,Very Responsive,No strict preference
+308,Pomeranian,6,Off Leash Sit Stay,4,Advanced,Working on Tricks,Short Sessions
+309,Labrador Retriever,18,Shake Hands,5,Advanced,Focused but Distractible,Long Sessions
+310,Aspin,10,Long Stay Off Leash,3.3,Intermediate,Very Responsive,Short Sessions
+311,Siberian Husky,17,Sit Stay,4.3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+312,Beagle,6,Long Stay Off Leash,2.9,Advanced,Focused but Distractible,Long Sessions
+313,Golden Retriever,15,Off Leash Down Stay,4,Advanced,Confident Learner,Medium Sessions
+314,Shih Tzu,3,Off Leash Sit,3.7,Advanced,Confident Learner,Multiple Short Sessions per Day
+315,Rottweiler,20,Roll Over,2.3,Basic,Focused but Distractible,No strict preference
+316,Golden Retriever,10,Loose Leash Walking,5,Advanced,Shy or Timid,Long Sessions
+317,German Shepherd,19,Long Stay Off Leash,5,Intermediate,Focused but Distractible,Medium Sessions
+318,Chihuahua,6,On and Off Sight Stay,4.2,Advanced,Very Responsive to Treats,Multiple Short Sessions per Day
+319,Siberian Husky,18,Off Leash Down Stay,3.1,Basic,Very Responsive,Short Sessions
+320,German Shepherd,21,Off Leash Sit,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+321,Dalmatian,16,Off Leash Down Stay,3,Basic,Very Responsive,Medium Sessions
+322,Beagle,6,Off Leash Sit Stay,3,Advanced,Very Responsive to Treats,Medium Sessions
+323,Dalmatian,15,Heel,4,Intermediate,Shy or Timid,Medium Sessions
+324,Pomeranian,3,Off Leash Sit Stay,3.3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+325,Shih Tzu,20,Down Stay,4.3,Basic,Focused but Distractible,Multiple Short Sessions per Day
+326,Beagle,10,Off Leash Sit Stay,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+327,Siberian Husky,19,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+328,Dalmatian,6,On and Off Sight Stay,3.7,Advanced,Confident Learner,Long Sessions
+329,Pomeranian,18,Off Leash Down,2.3,Intermediate,Shy or Timid,Multiple Short Sessions per Day
+330,Aspin,21,Off Leash Commands,5,Intermediate,Confident Learner,Multiple Short Sessions per Day
+331,Doberman Pinscher,16,Off Leash Commands,5,Advanced,Focused but Distractible,No strict preference
+332,Pomeranian,8,Loose Leash Heeling,4.2,Advanced,Very Responsive,Long Sessions
+333,German Shepherd,10,Watch Me,3.1,Advanced,Very Responsive,Multiple Short Sessions per Day
+334,Shih Tzu,20,Long Stay Off Leash,5,Advanced,Working on Tricks,Long Sessions
+335,Dalmatian,19,Loose Leash Commands,4.2,Advanced,Confident Learner,Short Sessions
+336,German Shepherd,18,Off Leash Down Stay,3.1,Advanced,Working on Tricks,Long Sessions
+337,Shih Tzu,19,Fetch,1,Basic,Shy or Timid,Medium Sessions
+338,Labrador Retriever,19,Down Stay,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+339,Labrador Retriever,18,Off Leash Sit,3.3,Basic,Working on Tricks,Short Sessions
+340,Beagle,5,Long Stay Off Leash,4.3,Advanced,Confident Learner,No strict preference
+341,Labrador Retriever,22,Loose Leash Commands,2.9,Intermediate,Very Responsive to Treats,Medium Sessions
+342,Doberman Pinscher,3,Off Leash Sit Stay,4,Advanced,Focused but Distractible,Medium Sessions
+343,Beagle,21,Off Leash Commands,3.7,Advanced,Focused but Distractible,Medium Sessions
+344,Rottweiler,11,Off Leash Down,2.3,Advanced,Confident Learner,Long Sessions
+345,Pomeranian,20,Off Leash Down,5,Advanced,Focused but Distractible,Long Sessions
+346,Golden Retriever,13,Sit,5,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+347,Bulldog,19,Off Leash Sit,4.2,Basic,Needs More Guidance,Medium Sessions
+348,Shih Tzu,15,Off Leash Sit,3.1,Advanced,Quick Learner,Multiple Short Sessions per Day
+349,Doberman Pinscher,12,Sit,2,Intermediate,Quick Learner,Long Sessions
+350,Doberman Pinscher,6,Fetch,3,Advanced,Very Responsive,No strict preference
+351,Pug,21,Off Leash Down Stay,4,Intermediate,Quick Learner,No strict preference
+352,Beagle,11,Play Dead,4,Basic,Working on Tricks,Multiple Short Sessions per Day
+353,Bulldog,21,Off Leash Sit,5,Advanced,Confident Learner,No strict preference
+354,Doberman Pinscher,12,Heel,5,Advanced,Quick Learner,Long Sessions
+355,Dalmatian,4,On and Off Sight Stay,2,Intermediate,Needs More Guidance,No strict preference
+356,Labrador Retriever,23,Sit,3.3,Advanced,Confident Learner,No strict preference
+357,Chihuahua,14,Off Leash Sit Stay,4.3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+358,Dalmatian,7,Shake Hands,2.9,Advanced,Confident Learner,Medium Sessions
+359,Pomeranian,17,Long Stay Off Leash,4,Advanced,Working on Tricks,No strict preference
+360,Aspin,20,Sit Stay,3.7,Basic,Very Responsive,Multiple Short Sessions per Day
+361,Pug,15,Long Stay Off Leash,2.3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+362,Labrador Retriever,17,Off Leash Down Stay,5,Intermediate,Focused but Distractible,Medium Sessions
+363,German Shepherd,6,Off Leash Sit,5,Advanced,Focused but Distractible,Long Sessions
+364,Beagle,15,Roll Over,4.2,Basic,Very Responsive,Long Sessions
+365,Chihuahua,3,Loose Leash Walking,3.1,Advanced,Working on Tricks,Long Sessions
+366,Labrador Retriever,20,Long Stay Off Leash,3,Basic,Focused but Distractible,Medium Sessions
+367,Golden Retriever,10,On and Off Sight Stay,4,Advanced,Very Responsive,Short Sessions
+368,Pomeranian,19,Off Leash Down Stay,2,Intermediate,Focused but Distractible,No strict preference
+369,Chihuahua,6,Off Leash Sit,3,Advanced,Focused but Distractible,No strict preference
+370,Rottweiler,18,Off Leash Down Stay,3,Basic,Confident Learner,Long Sessions
+371,German Shepherd,21,Off Leash Sit Stay,3.6,Advanced,Confident Learner,Short Sessions
+372,Aspin,16,Heel,4.7,Advanced,Focused but Distractible,Short Sessions
+373,Golden Retriever,8,Off Leash Sit Stay,4.6,Advanced,Shy or Timid,Short Sessions
+374,Beagle,10,Down Stay,5,Intermediate,Focused but Distractible,Short Sessions
+375,Pug,20,Off Leash Sit Stay,2,Intermediate,Very Responsive to Treats,Long Sessions
+376,Pomeranian,19,Shake Hands,5,Advanced,Very Responsive,Short Sessions
+377,Aspin,18,On and Off Sight Stay,5,Advanced,Needs More Guidance,No strict preference
+378,Doberman Pinscher,19,Off Leash Down,2,Advanced,Very Responsive,Short Sessions
+379,Pomeranian,19,Off Leash Commands,5,Advanced,Very Responsive to Treats,Multiple Short Sessions per Day
+380,German Shepherd,18,Off Leash Commands,4,Advanced,Shy or Timid,Short Sessions
+381,Shih Tzu,5,Loose Leash Heeling,4,Advanced,Working on Tricks,Short Sessions
+382,Dalmatian,22,Watch Me,2,Basic,Focused but Distractible,Medium Sessions
+383,German Shepherd,3,Long Stay Off Leash,3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+384,Shih Tzu,21,Loose Leash Commands,4,Basic,Focused but Distractible,Long Sessions
+385,Labrador Retriever,11,Off Leash Down Stay,4,Advanced,Needs More Guidance,Medium Sessions
+386,Labrador Retriever,20,Fetch,3,Intermediate,Quick Learner,No strict preference
+387,Beagle,6,Down Stay,3,Advanced,Quick Learner,No strict preference
+388,Labrador Retriever,15,Off Leash Sit,4,Advanced,Very Responsive,No strict preference
+389,Doberman Pinscher,3,Long Stay Off Leash,4.3,Advanced,Quick Learner,No strict preference
+390,Beagle,6,Loose Leash Commands,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+391,Rottweiler,15,Off Leash Sit Stay,4,Intermediate,Confident Learner,Medium Sessions
+392,Pomeranian,3,Off Leash Commands,3.7,Basic,Quick Learner,Long Sessions
+393,Golden Retriever,20,Off Leash Down,2.3,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+394,Bulldog,10,Off Leash Down,5,Intermediate,Confident Learner,Medium Sessions
+395,Shih Tzu,19,Sit,5,Advanced,Focused but Distractible,Long Sessions
+396,Doberman Pinscher,6,Off Leash Sit,4.2,Intermediate,Confident Learner,Long Sessions
+397,Doberman Pinscher,18,Off Leash Sit,3.1,Basic,Working on Tricks,Short Sessions
+398,Pug,21,Sit,3,Advanced,Very Responsive,No strict preference
+399,Beagle,16,Fetch,4,Advanced,Working on Tricks,Medium Sessions
+400,Bulldog,8,Off Leash Down Stay,2,Intermediate,Focused but Distractible,Medium Sessions
+401,Doberman Pinscher,10,Play Dead,3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+402,Dalmatian,20,Off Leash Sit,3,Advanced,Very Responsive,Multiple Short Sessions per Day
+403,Labrador Retriever,19,Heel,3.6,Advanced,Working on Tricks,Multiple Short Sessions per Day
+404,Chihuahua,18,On and Off Sight Stay,4.7,Advanced,Focused but Distractible,Short Sessions
+405,Dalmatian,19,Sit,4.6,Basic,Very Responsive,Multiple Short Sessions per Day
+406,Pomeranian,19,Off Leash Sit Stay,3,Advanced,Focused but Distractible,Long Sessions
+407,Aspin,18,Shake Hands,2,Intermediate,Focused but Distractible,Medium Sessions
+408,Pug,5,Long Stay Off Leash,4.3,Advanced,Confident Learner,No strict preference
+409,Labrador Retriever,22,Sit Stay,2.9,Basic,Confident Learner,Short Sessions
+410,German Shepherd,3,Long Stay Off Leash,4,Advanced,Focused but Distractible,Long Sessions
+411,Beagle,21,Off Leash Down Stay,3.7,Basic,Shy or Timid,Short Sessions
+412,Chihuahua,11,Off Leash Sit,2.3,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+413,Labrador Retriever,20,Roll Over,5,Intermediate,Focused but Distractible,Long Sessions
+414,Golden Retriever,13,Loose Leash Walking,5,Advanced,Needs More Guidance,Medium Sessions
+415,Pomeranian,19,Long Stay Off Leash,4.2,Basic,Quick Learner,Multiple Short Sessions per Day
+416,Chihuahua,15,On and Off Sight Stay,3.1,Advanced,Quick Learner,No strict preference
+417,Rottweiler,12,Off Leash Down Stay,3,Advanced,Very Responsive,Long Sessions
+418,German Shepherd,6,Off Leash Sit,4,Advanced,Quick Learner,Medium Sessions
+419,Aspin,21,Off Leash Down Stay,2,Basic,Working on Tricks,Multiple Short Sessions per Day
+420,Golden Retriever,11,Off Leash Sit Stay,3,Advanced,Confident Learner,Short Sessions
+421,Beagle,21,Heel,3,Basic,Quick Learner,Multiple Short Sessions per Day
+422,Pug,12,Off Leash Sit Stay,3.6,Advanced,Needs More Guidance,Medium Sessions
+423,Pomeranian,6,Down Stay,4.7,Intermediate,Confident Learner,Medium Sessions
+424,Aspin,15,Off Leash Sit Stay,4.6,Advanced,Focused but Distractible,Medium Sessions
+425,Doberman Pinscher,3,Shake Hands,5,Basic,Confident Learner,Multiple Short Sessions per Day
+426,Pomeranian,20,On and Off Sight Stay,4.2,Advanced,Working on Tricks,Multiple Short Sessions per Day
+427,German Shepherd,10,Off Leash Down,3.1,Advanced,Very Responsive,Multiple Short Sessions per Day
+428,Shih Tzu,19,Off Leash Commands,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+429,Dalmatian,6,Off Leash Commands,4,Intermediate,Focused but Distractible,Long Sessions
+430,German Shepherd,18,Loose Leash Heeling,2,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+431,Shih Tzu,21,Watch Me,3,Advanced,Very Responsive,Multiple Short Sessions per Day
+432,Labrador Retriever,16,Long Stay Off Leash,3,Advanced,Working on Tricks,No strict preference
+433,Labrador Retriever,8,Loose Leash Commands,3.6,Advanced,Focused but Distractible,Long Sessions
+434,Beagle,10,Off Leash Down Stay,4.7,Advanced,Very Responsive,Multiple Short Sessions per Day
+435,Labrador Retriever,20,Fetch,4.6,Advanced,Focused but Distractible,Long Sessions
+436,Doberman Pinscher,19,Down Stay,4.3,Advanced,Focused but Distractible,Short Sessions
+437,Beagle,18,Off Leash Sit,2.9,Basic,Confident Learner,Long Sessions
+438,Rottweiler,19,Long Stay Off Leash,4,Advanced,Confident Learner,Medium Sessions
+439,Pomeranian,19,Loose Leash Commands,3.7,Basic,Focused but Distractible,Multiple Short Sessions per Day
+440,Golden Retriever,18,Off Leash Sit Stay,2.3,Advanced,Shy or Timid,Short Sessions
+441,Bulldog,5,Off Leash Commands,5,Intermediate,Focused but Distractible,No strict preference
+442,Shih Tzu,22,Off Leash Down,5,Advanced,Very Responsive to Treats,Medium Sessions
+443,Doberman Pinscher,3,Off Leash Down,4.2,Advanced,Very Responsive,Medium Sessions
+444,Doberman Pinscher,21,Sit,3.1,Advanced,Needs More Guidance,Medium Sessions
+445,Pug,11,Off Leash Sit,3,Advanced,Very Responsive,Long Sessions
+446,Beagle,20,Off Leash Sit,4,Intermediate,Very Responsive to Treats,Long Sessions
+447,Bulldog,13,Sit,2,Basic,Shy or Timid,Multiple Short Sessions per Day
+448,Doberman Pinscher,19,Fetch,3,Advanced,Working on Tricks,Medium Sessions
+449,Dalmatian,15,Off Leash Down Stay,3,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+450,Labrador Retriever,12,Play Dead,3.6,Advanced,Working on Tricks,Long Sessions
+451,Chihuahua,6,Off Leash Sit,4.7,Intermediate,Focused but Distractible,No strict preference
+452,Dalmatian,21,Heel,4.6,Basic,Confident Learner,No strict preference
+453,Pomeranian,11,On and Off Sight Stay,2,Advanced,Shy or Timid,Multiple Short Sessions per Day
+454,Aspin,21,Sit,3,Advanced,Confident Learner,No strict preference
+455,Pug,12,Off Leash Sit Stay,3,Intermediate,Focused but Distractible,Long Sessions
+456,Labrador Retriever,4,Shake Hands,3.6,Advanced,Very Responsive,No strict preference
+457,German Shepherd,23,Long Stay Off Leash,4.7,Advanced,Very Responsive,No strict preference
+458,Beagle,14,Sit Stay,4.3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+459,Chihuahua,7,Long Stay Off Leash,2.9,Advanced,Confident Learner,Medium Sessions
+460,Labrador Retriever,17,Off Leash Down Stay,4,Basic,Working on Tricks,No strict preference
+461,Golden Retriever,20,Off Leash Sit,3.7,Advanced,Shy or Timid,Multiple Short Sessions per Day
+462,Pomeranian,15,Roll Over,2.3,Basic,Needs More Guidance,Multiple Short Sessions per Day
+463,Chihuahua,17,Loose Leash Walking,5,Advanced,Working on Tricks,Medium Sessions
+464,Rottweiler,6,Long Stay Off Leash,5,Intermediate,Confident Learner,Long Sessions
+465,German Shepherd,18,On and Off Sight Stay,4.2,Advanced,Very Responsive to Treats,Long Sessions
+466,Aspin,10,Off Leash Down Stay,3.1,Basic,Focused but Distractible,Long Sessions
+467,Golden Retriever,17,Off Leash Sit,3,Advanced,Focused but Distractible,Medium Sessions
+468,Beagle,6,Off Leash Down Stay,4,Advanced,Confident Learner,Short Sessions
+469,Pug,15,Off Leash Sit Stay,2,Advanced,Confident Learner,No strict preference
+470,Pomeranian,3,Heel,3,Intermediate,Very Responsive to Treats,No strict preference
+471,Aspin,20,Off Leash Sit Stay,3,Intermediate,Confident Learner,Long Sessions
+472,Doberman Pinscher,10,Down Stay,3.6,Advanced,Needs More Guidance,Short Sessions
+473,Pomeranian,19,Off Leash Sit Stay,4.7,Advanced,Working on Tricks,Short Sessions
+474,German Shepherd,6,Shake Hands,4.6,Advanced,Shy or Timid,Short Sessions
+475,Shih Tzu,18,On and Off Sight Stay,4,Advanced,Very Responsive,Short Sessions
+476,Dalmatian,21,Off Leash Down,2,Advanced,Very Responsive,Long Sessions
+477,German Shepherd,16,Off Leash Commands,3,Advanced,Shy or Timid,Short Sessions
+478,Shih Tzu,8,Off Leash Commands,3,Basic,Focused but Distractible,No strict preference
+479,Labrador Retriever,10,Loose Leash Heeling,3.6,Advanced,Focused but Distractible,Short Sessions
+480,Labrador Retriever,20,Watch Me,4.7,Basic,Needs More Guidance,Multiple Short Sessions per Day
+481,Beagle,19,Long Stay Off Leash,4.6,Advanced,Quick Learner,Short Sessions
+482,Labrador Retriever,18,Loose Leash Commands,1,Intermediate,Quick Learner,Short Sessions
+483,Doberman Pinscher,19,Off Leash Down Stay,4,Advanced,Very Responsive,Medium Sessions
+484,Beagle,19,Fetch,5,Basic,Quick Learner,Multiple Short Sessions per Day
+485,Rottweiler,18,Down Stay,4,Advanced,Working on Tricks,Long Sessions
+486,Pomeranian,5,Off Leash Sit,4,Basic,Confident Learner,Medium Sessions
+487,Golden Retriever,22,Long Stay Off Leash,5,Basic,Quick Learner,No strict preference
+488,Bulldog,3,Loose Leash Commands,3,Advanced,Needs More Guidance,No strict preference
+489,Shih Tzu,21,Off Leash Sit Stay,1,Basic,Confident Learner,No strict preference
+490,Doberman Pinscher,11,Off Leash Commands,4,Advanced,Focused but Distractible,No strict preference
+491,Doberman Pinscher,20,Off Leash Down,3,Intermediate,Confident Learner,Multiple Short Sessions per Day
+492,Pug,13,Off Leash Down,3,Advanced,Working on Tricks,Medium Sessions
+493,Beagle,19,Sit,4,Basic,Very Responsive,Long Sessions
+494,Bulldog,15,Off Leash Sit,1,Advanced,Working on Tricks,Multiple Short Sessions per Day
+495,Doberman Pinscher,12,Off Leash Sit,4.3,Advanced,Focused but Distractible,Medium Sessions
+496,Dalmatian,6,Sit,2.9,Advanced,Focused but Distractible,Long Sessions
+497,Labrador Retriever,21,Fetch,4,Intermediate,Very Responsive,Long Sessions
+498,Chihuahua,11,Off Leash Down Stay,3.7,Intermediate,Working on Tricks,Short Sessions
+499,Dalmatian,21,Play Dead,2.3,Advanced,Focused but Distractible,No strict preference
+500,Pomeranian,12,Off Leash Sit,5,Advanced,Very Responsive,Medium Sessions
+501,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+502,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+503,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+504,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+505,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+506,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+507,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+508,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+509,Pomeranian,15,Off Leash Down Stay,4,Intermediate,Quick Learner,Multiple Short Sessions per Day
+510,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+511,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+512,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+513,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+514,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+515,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+516,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+517,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+518,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+519,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+520,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+521,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+522,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+523,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+524,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+525,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+526,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+527,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+528,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+529,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+530,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+531,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+532,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+533,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+534,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+535,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+536,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+537,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+538,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+539,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+540,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+541,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+542,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+543,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+544,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+545,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+546,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+547,Beagle,18,Shake Hands,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+548,Golden Retriever,21,On and Off Sight Stay,3.7,Basic,Confident Learner,No strict preference
+549,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+550,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+551,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+552,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+553,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+554,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+555,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+556,Labrador Retriever,6,Off Leash Sit,2,Intermediate,Very Responsive,Medium Sessions
+557,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+558,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+559,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+560,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+561,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+562,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+563,Bulldog,20,Off Leash Down Stay,5,Intermediate,Working on Tricks,Long Sessions
+564,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+565,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+566,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+567,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+568,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+569,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+570,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+571,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+572,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+573,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+574,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+575,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+576,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+577,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+578,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+579,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+580,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+581,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+582,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+583,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+584,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+585,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+586,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+587,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+588,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+589,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+590,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+591,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+592,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+593,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+594,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+595,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+596,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+597,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+598,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+599,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+600,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+601,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+602,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+603,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+604,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+605,Beagle,18,Shake Hands,4,Basic,Focused but Distractible,Multiple Short Sessions per Day
+606,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+607,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+608,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+609,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+610,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+611,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+612,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+613,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+614,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+615,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+616,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+617,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+618,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+619,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+620,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+621,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+622,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+623,Labrador Retriever,6,Off Leash Sit,2,Intermediate,Very Responsive,Medium Sessions
+624,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+625,German Shepherd,3,Off Leash Sit Stay,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+626,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+627,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+628,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+629,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+630,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+631,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+632,Shih Tzu,16,Off Leash Down,2.3,Advanced,Working on Tricks,Long Sessions
+633,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+634,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+635,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+636,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+637,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+638,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+639,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+640,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+641,Pomeranian,15,Off Leash Down Stay,4,Intermediate,Quick Learner,Multiple Short Sessions per Day
+642,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+643,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+644,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+645,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+646,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+647,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+648,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+649,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+650,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+651,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+652,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+653,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+654,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+655,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+656,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+657,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+658,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+659,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+660,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+661,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+662,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+663,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+664,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+665,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+666,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+667,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+668,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+669,Siberian Husky,6,Off Leash Sit Stay,2.9,Basic,Confident Learner,Multiple Short Sessions per Day
+670,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+671,Golden Retriever,21,On and Off Sight Stay,3.7,Intermediate,Confident Learner,No strict preference
+672,Shih Tzu,16,Off Leash Down,2.3,Advanced,Working on Tricks,Long Sessions
+673,Rottweiler,8,Off Leash Commands,5,Basic,Very Responsive,Multiple Short Sessions per Day
+674,Golden Retriever,10,Off Leash Commands,5,Advanced,Working on Tricks,Long Sessions
+675,Shih Tzu,16,Off Leash Down,2.3,Advanced,Working on Tricks,Long Sessions
+676,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+677,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+678,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+679,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+680,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+681,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+682,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+683,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+684,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+685,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+686,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+687,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+688,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+689,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+690,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+691,Golden Retriever,21,On and Off Sight Stay,3.7,Basic,Confident Learner,No strict preference
+692,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+693,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+694,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+695,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+696,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+697,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+698,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+699,Labrador Retriever,6,Off Leash Sit,2,Intermediate,Very Responsive,Medium Sessions
+700,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+701,German Shepherd,3,Off Leash Sit Stay,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+702,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+703,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+704,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+705,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+706,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+707,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+708,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+709,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+710,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+711,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+712,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+713,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+714,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+715,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+716,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+717,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+718,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+719,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+720,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+721,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+722,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+723,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+724,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+725,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+726,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+727,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+728,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+729,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+730,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+731,Shih Tzu,16,Off Leash Down,2.3,Advanced,Working on Tricks,Long Sessions
+732,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+733,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+734,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+735,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+736,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+737,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+738,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+739,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+740,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+741,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+742,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+743,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+744,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+745,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+746,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+747,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+748,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+749,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+750,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+751,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+752,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+753,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+754,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+755,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+756,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+757,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+758,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+759,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+760,Beagle,18,Shake Hands,4,Basic,Focused but Distractible,Multiple Short Sessions per Day
+761,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+762,Shih Tzu,16,Off Leash Down,2.3,Basic,Working on Tricks,Long Sessions
+763,Rottweiler,8,Off Leash Commands,5,Advanced,Very Responsive,Multiple Short Sessions per Day
+764,Golden Retriever,10,Off Leash Commands,5,Intermediate,Working on Tricks,Long Sessions
+765,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+766,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+767,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+768,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+769,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+770,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+771,Labrador Retriever,10,Off Leash Sit Stay,3.3,Intermediate,Quick Learner,Multiple Short Sessions per Day
+772,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+773,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+774,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+775,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+776,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+777,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+778,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+779,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+780,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+781,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+782,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+783,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+784,Pomeranian,15,Off Leash Down Stay,4,Intermediate,Quick Learner,Multiple Short Sessions per Day
+785,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+786,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+787,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+788,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+789,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+790,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+791,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+792,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+793,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+794,Labrador Retriever,6,Off Leash Sit,2,Intermediate,Very Responsive,Medium Sessions
+795,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+796,German Shepherd,3,Off Leash Sit Stay,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+797,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+798,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+799,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+800,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+801,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+802,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+803,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+804,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+805,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+806,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+807,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+808,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+809,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+810,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+811,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+812,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+813,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+814,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+815,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+816,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+817,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+818,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+819,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+820,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+821,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+822,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+823,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+824,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+825,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+826,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+827,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+828,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+829,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+830,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+831,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+832,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+833,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+834,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+835,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+836,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+837,Poodle,14,Sit,3,Basic,Needs More Guidance,Medium Sessions
+838,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+839,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+840,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+841,Pug,21,Off Leash Sit,4.3,Advanced,Quick Learner,Short Sessions
+842,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+843,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+844,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+845,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+846,Chihuahua,10,Shake Hands,4.5,Intermediate,Confident Learner,No strict preference
+847,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+848,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+849,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+850,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+851,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+852,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+853,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+854,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+855,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+856,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+857,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+858,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+859,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+860,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+861,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+862,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+863,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+864,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+865,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+866,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+867,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+868,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+869,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+870,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+871,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+872,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+873,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+874,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+875,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+876,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+877,Poodle,9,Sit,3,Basic,Needs More Guidance,Medium Sessions
+878,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+879,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+880,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+881,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+882,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+883,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+884,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+885,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+886,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+887,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+888,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+889,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+890,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+891,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+892,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+893,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+894,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+895,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+896,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+897,Poodle,1,Sit,3.2,Basic,Needs More Guidance,Medium Sessions
+898,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+899,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+900,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+901,Pug,21,Off Leash Sit,4.4,Advanced,Quick Learner,Short Sessions
+902,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+903,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+904,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+905,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+906,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+907,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+908,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+909,Poodle,11,Sit,3.6,Basic,Needs More Guidance,Medium Sessions
+910,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+911,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+912,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+913,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+914,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+915,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+916,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+917,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+918,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+919,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+920,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+921,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+922,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+923,Poodle,6,Sit,3.8,Basic,Needs More Guidance,Medium Sessions
+924,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+925,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+926,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+927,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+928,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+929,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+930,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+931,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+932,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+933,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+934,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+935,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+936,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+937,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+938,Poodle,4,Sit,3,Basic,Needs More Guidance,Medium Sessions
+939,Chihuahua,9,Fetch,3.9,Intermediate,Quick Learner,No strict preference
+940,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+941,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+942,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+943,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+944,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+945,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+946,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+947,Dalmatian,16,Off Leash Sit,2.7,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+948,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+949,Poodle,18,Sit,3,Basic,Needs More Guidance,Medium Sessions
+950,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+951,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+952,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+953,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+954,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+955,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+956,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+957,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+958,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+959,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+960,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+961,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+962,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+963,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+964,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+965,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+966,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+967,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+968,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+969,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+970,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+971,Poodle,23,Sit,3,Basic,Needs More Guidance,Medium Sessions
+972,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+973,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+974,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+975,Pug,21,Off Leash Sit,1.9,Advanced,Quick Learner,Short Sessions
+976,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+977,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+978,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+979,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+980,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+981,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+982,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+983,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+984,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+985,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+986,Poodle,22,Sit,3,Basic,Needs More Guidance,Medium Sessions
+987,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+988,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+989,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+990,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+991,Dalmatian,6,Heel,1.8,Basic,Working on Tricks,Multiple Short Sessions per Day
+992,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+993,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+994,Labrador Retriever,20,Off Leash Sit Stay,1.2,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+995,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+996,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+997,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+998,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+999,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1000,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1001,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1002,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1003,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1004,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1005,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1006,Bulldog,20,Off Leash Down Stay,5,Intermediate,Working on Tricks,Long Sessions
+1007,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+1008,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1009,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1010,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1011,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+1012,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1013,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1014,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1015,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+1016,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1017,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+1018,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1019,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1020,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1021,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1022,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1023,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1024,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1025,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1026,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1027,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+1028,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1029,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+1030,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1031,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1032,Poodle,7,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1033,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1034,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1035,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1036,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1037,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1038,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1039,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1040,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1041,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1042,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1043,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1044,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1045,Poodle,9,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1046,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1047,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1048,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1049,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1050,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1051,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1052,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1053,Siberian Husky,6,Off Leash Sit Stay,2.9,Basic,Confident Learner,Multiple Short Sessions per Day
+1054,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1055,Golden Retriever,21,On and Off Sight Stay,3.7,Intermediate,Confident Learner,No strict preference
+1056,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1057,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+1058,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1059,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1060,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1061,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1062,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1063,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1064,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1065,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1066,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1067,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1068,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1069,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1070,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1071,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1072,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1073,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+1074,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1075,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1076,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1077,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1078,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1079,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+1080,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1081,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1082,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1083,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1084,Beagle,18,Shake Hands,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1085,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1086,Bulldog,20,Off Leash Down Stay,5,Intermediate,Working on Tricks,Long Sessions
+1087,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1088,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1089,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1090,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+1091,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1092,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1093,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1094,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1095,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1096,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1097,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1098,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+1099,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1100,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1101,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1102,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1103,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1104,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1105,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1106,German Shepherd,3,Off Leash Sit Stay,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+1107,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1108,Labrador Retriever,10,Off Leash Sit Stay,3.3,Intermediate,Quick Learner,Multiple Short Sessions per Day
+1109,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1110,Siberian Husky,6,Off Leash Sit Stay,2.9,Basic,Confident Learner,Multiple Short Sessions per Day
+1111,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1112,Golden Retriever,21,On and Off Sight Stay,3.7,Basic,Confident Learner,No strict preference
+1113,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1114,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1115,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1116,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1117,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+1118,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1119,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1120,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1121,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1122,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1123,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+1124,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1125,Beagle,18,Shake Hands,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1126,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1127,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1128,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1129,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1130,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1131,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1132,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1133,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1134,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1135,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1136,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+1137,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1138,Beagle,18,Shake Hands,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1139,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1140,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1141,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1142,German Shepherd,17,Roll Over,3.1,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1143,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1144,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1145,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1146,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1147,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1148,Pomeranian,15,Off Leash Down Stay,4,Intermediate,Quick Learner,Multiple Short Sessions per Day
+1149,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1150,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+1151,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1152,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1153,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1154,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1155,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1156,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+1157,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1158,Labrador Retriever,6,Off Leash Sit,2,Intermediate,Very Responsive,Medium Sessions
+1159,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1160,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1161,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1162,Siberian Husky,6,Off Leash Sit Stay,2.9,Basic,Confident Learner,Multiple Short Sessions per Day
+1163,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1164,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1165,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1166,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1167,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1168,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1169,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1170,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1171,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+1172,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1173,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1174,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1175,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1176,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1177,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1178,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+1179,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1180,Beagle,18,Shake Hands,4,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1181,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1182,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1183,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1184,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1185,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1186,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+1187,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1188,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1189,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1190,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1191,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1192,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+1193,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1194,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1195,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1196,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1197,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+1198,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1199,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1200,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1201,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1202,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1203,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+1204,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1205,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+1206,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1207,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1208,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1209,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1210,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1211,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1212,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1213,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+1214,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1215,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1216,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1217,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+1218,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1219,Labrador Retriever,6,Off Leash Sit,2,Intermediate,Very Responsive,Medium Sessions
+1220,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1221,German Shepherd,3,Off Leash Sit Stay,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+1222,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1223,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1224,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1225,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1226,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1227,Shih Tzu,18,Long Stay Off Leash,4,Basic,Needs More Guidance,Multiple Short Sessions per Day
+1228,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1229,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1230,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1231,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1232,Labrador Retriever,10,Off Leash Sit Stay,3.3,Intermediate,Quick Learner,Multiple Short Sessions per Day
+1233,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1234,Siberian Husky,6,Off Leash Sit Stay,2.9,Basic,Confident Learner,Multiple Short Sessions per Day
+1235,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1236,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1237,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1238,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1239,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1240,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1241,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1242,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1243,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1244,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+1245,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1246,Beagle,18,Shake Hands,4,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1247,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1248,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1249,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1250,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1251,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1252,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1253,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1254,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1255,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1256,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1257,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+1258,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1259,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+1260,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1261,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1262,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1263,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1264,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1265,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1266,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1267,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1268,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1269,Golden Retriever,21,On and Off Sight Stay,3.7,Basic,Confident Learner,No strict preference
+1270,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1271,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+1272,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1273,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1274,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1275,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1276,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+1277,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1278,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1279,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1280,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1281,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1282,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+1283,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1284,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1285,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1286,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+1287,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1288,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1289,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1290,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1291,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1292,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1293,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1294,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1295,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1296,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1297,Golden Retriever,21,On and Off Sight Stay,3.7,Basic,Confident Learner,No strict preference
+1298,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1299,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+1300,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1301,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1302,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1303,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1304,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1305,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1306,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1307,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1308,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1309,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1310,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1311,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1312,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1313,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1314,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1315,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1316,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1317,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1318,German Shepherd,3,Off Leash Sit Stay,3,Basic,Working on Tricks,Multiple Short Sessions per Day
+1319,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1320,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1321,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1322,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1323,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1324,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1325,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+1326,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1327,Beagle,18,Shake Hands,4,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1328,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1329,Bulldog,20,Off Leash Down Stay,5,Intermediate,Working on Tricks,Long Sessions
+1330,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1331,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1332,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1333,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1334,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1335,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1336,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1337,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1338,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1339,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1340,Bulldog,20,Off Leash Down Stay,5,Intermediate,Working on Tricks,Long Sessions
+1341,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1342,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1343,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1344,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1345,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1346,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1347,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1348,Siberian Husky,6,Off Leash Sit Stay,2.9,Basic,Confident Learner,Multiple Short Sessions per Day
+1349,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1350,Golden Retriever,21,On and Off Sight Stay,3.7,Intermediate,Confident Learner,No strict preference
+1351,Bulldog,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1352,Aspin,15,Off Leash Sit,4.2,Basic,Focused but Distractible,Medium Sessions
+1353,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1354,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1355,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1356,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1357,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1358,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1359,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1360,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1361,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1362,Bulldog,20,Off Leash Down Stay,5,Intermediate,Working on Tricks,Long Sessions
+1363,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1364,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1365,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1366,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1367,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1368,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1369,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1370,Poodle,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1371,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1372,Pomeranian,20,Heel,4,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1373,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1374,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+1375,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1376,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1377,Poodle,10,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1378,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1379,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1380,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1381,Aspin,19,Down Stay,4.3,Basic,Needs More Guidance,Long Sessions
+1382,Siberian Husky,6,Off Leash Sit Stay,2.9,Advanced,Confident Learner,Multiple Short Sessions per Day
+1383,Beagle,18,Shake Hands,4,Intermediate,Focused but Distractible,Multiple Short Sessions per Day
+1384,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1385,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+1386,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1387,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1388,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1389,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1390,Golden Retriever,10,On and Off Sight Stay,2,Intermediate,Quick Learner,Medium Sessions
+1391,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1392,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1393,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1394,Poodle,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1395,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1396,Poodle,20,Off Leash Down Stay,5,Advanced,Working on Tricks,Long Sessions
+1397,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1398,German Shepherd,17,Roll Over,3.1,Basic,Focused but Distractible,Multiple Short Sessions per Day
+1399,Pug,6,Loose Leash Walking,2,Advanced,Focused but Distractible,Short Sessions
+1400,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1401,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1402,Shih Tzu,17,Off Leash Down Stay,3,Basic,Quick Learner,Medium Sessions
+1403,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1404,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1405,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1406,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1407,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1408,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1409,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1410,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1411,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1412,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1413,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1414,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1415,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1416,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1417,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1418,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1419,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1420,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1421,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1422,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1423,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1424,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1425,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1426,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1427,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1428,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1429,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1430,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1431,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1432,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1433,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1434,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1435,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1436,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1437,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1438,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1439,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1440,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1441,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1442,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1443,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1444,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1445,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1446,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1447,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1448,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1449,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1450,Pug,21,Off Leash Sit,4.3,Advanced,Quick Learner,Short Sessions
+1451,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1452,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1453,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1454,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1455,Chihuahua,10,Shake Hands,4.5,Intermediate,Confident Learner,No strict preference
+1456,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1457,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1458,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1459,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1460,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1461,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1462,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1463,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1464,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1465,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1466,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1467,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1468,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1469,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1470,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1471,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1472,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1473,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1474,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1475,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1476,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1477,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1478,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1479,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1480,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1481,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1482,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1483,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1484,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1485,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1486,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1487,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1488,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1489,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1490,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1491,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1492,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1493,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1494,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1495,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1496,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1497,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1498,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1499,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1500,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1501,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1502,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1503,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1504,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1505,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1506,Poodle,1,Sit,3.2,Basic,Needs More Guidance,Medium Sessions
+1507,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1508,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1509,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1510,Pug,21,Off Leash Sit,4.4,Advanced,Quick Learner,Short Sessions
+1511,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1512,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1513,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1514,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1515,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1516,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1517,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1518,Poodle,1,Sit,3.6,Basic,Needs More Guidance,Medium Sessions
+1519,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1520,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1521,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1522,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1523,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1524,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1525,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1526,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1527,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1528,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1529,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1530,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1531,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1532,Poodle,1,Sit,3.8,Basic,Needs More Guidance,Medium Sessions
+1533,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1534,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1535,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1536,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1537,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1538,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1539,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1540,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1541,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1542,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1543,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1544,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1545,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1546,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1547,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1548,Chihuahua,9,Fetch,3.9,Intermediate,Quick Learner,No strict preference
+1549,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1550,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1551,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1552,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1553,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1554,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1555,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1556,Dalmatian,16,Off Leash Sit,2.7,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1557,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1558,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1559,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1560,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1561,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1562,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1563,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1564,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1565,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1566,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1567,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1568,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1569,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1570,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1571,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1572,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1573,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1574,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1575,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1576,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1577,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1578,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1579,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1580,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1581,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1582,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1583,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1584,Pug,21,Off Leash Sit,1.9,Advanced,Quick Learner,Short Sessions
+1585,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1586,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1587,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1588,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1589,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1590,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1591,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1592,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1593,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1594,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1595,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1596,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1597,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1598,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1599,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1600,Dalmatian,6,Heel,1.8,Basic,Working on Tricks,Multiple Short Sessions per Day
+1601,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1602,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1603,Labrador Retriever,20,Off Leash Sit Stay,1.2,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1604,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1605,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1606,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1607,Bulldog,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1608,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1609,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1610,Labrador Retriever,10,Off Leash Sit Stay,3.3,Basic,Quick Learner,Multiple Short Sessions per Day
+1611,Aspin,19,Down Stay,4.3,Advanced,Needs More Guidance,Long Sessions
+1612,Siberian Husky,6,Off Leash Sit Stay,2.9,Intermediate,Confident Learner,Multiple Short Sessions per Day
+1613,Beagle,18,Shake Hands,4,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1614,Golden Retriever,21,On and Off Sight Stay,3.7,Advanced,Confident Learner,No strict preference
+1615,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+1616,Aspin,15,Off Leash Sit,4.2,Intermediate,Focused but Distractible,Medium Sessions
+1617,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1618,Pug,6,Loose Leash Walking,2,Intermediate,Focused but Distractible,Short Sessions
+1619,Shih Tzu,18,Long Stay Off Leash,4,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1620,Golden Retriever,10,On and Off Sight Stay,2,Basic,Quick Learner,Medium Sessions
+1621,Shih Tzu,17,Off Leash Down Stay,3,Advanced,Quick Learner,Medium Sessions
+1622,Labrador Retriever,6,Off Leash Sit,2,Basic,Very Responsive,Medium Sessions
+1623,Pomeranian,15,Off Leash Down Stay,4,Advanced,Quick Learner,Multiple Short Sessions per Day
+1624,German Shepherd,3,Off Leash Sit Stay,3,Intermediate,Working on Tricks,Multiple Short Sessions per Day
+1625,Pomeranian,20,Heel,4,Advanced,Confident Learner,Multiple Short Sessions per Day
+1626,Bulldog,20,Off Leash Down Stay,5,Basic,Working on Tricks,Long Sessions
+1627,Aspin,15,Off Leash Sit,4.2,Advanced,Focused but Distractible,Medium Sessions
+1628,German Shepherd,17,Roll Over,3.1,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1629,Pug,6,Loose Leash Walking,2,Basic,Focused but Distractible,Short Sessions
+1630,Shih Tzu,18,Long Stay Off Leash,4,Intermediate,Needs More Guidance,Multiple Short Sessions per Day
+1631,Golden Retriever,10,On and Off Sight Stay,2,Advanced,Quick Learner,Medium Sessions
+1632,Shih Tzu,17,Off Leash Down Stay,3,Intermediate,Quick Learner,Medium Sessions
+1633,Labrador Retriever,6,Off Leash Sit,2,Advanced,Very Responsive,Medium Sessions
+1634,Pomeranian,15,Off Leash Down Stay,4,Basic,Quick Learner,Multiple Short Sessions per Day
+1635,German Shepherd,3,Off Leash Sit Stay,3,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1636,Pomeranian,20,Heel,4,Basic,Confident Learner,Multiple Short Sessions per Day
+1637,Labrador Retriever,10,Off Leash Sit Stay,3.3,Advanced,Quick Learner,Multiple Short Sessions per Day
+1638,Aspin,19,Down Stay,4.3,Intermediate,Needs More Guidance,Long Sessions
+1639,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1640,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1641,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1642,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1643,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1644,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1645,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1646,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1647,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1648,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1649,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1650,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1651,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1652,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1653,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1654,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1655,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1656,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1657,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1658,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1659,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1660,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1661,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1662,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1663,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1664,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1665,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1666,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1667,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1668,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1669,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1670,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1671,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1672,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1673,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1674,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1675,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1676,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1677,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1678,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1679,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1680,Pug,21,Off Leash Sit,4.3,Advanced,Quick Learner,Short Sessions
+1681,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1682,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1683,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1684,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1685,Chihuahua,10,Shake Hands,4.5,Intermediate,Confident Learner,No strict preference
+1686,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1687,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1688,Aspin,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1689,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1690,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1691,Aspin,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1692,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1693,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1694,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1695,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1696,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1697,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1698,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1699,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1700,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1701,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1702,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1703,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1704,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1705,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1706,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1707,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1708,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1709,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1710,Aspin,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1711,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1712,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1713,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1714,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1715,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1716,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1717,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1718,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1719,Aspin,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1720,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1721,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1722,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1723,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1724,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1725,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1726,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1727,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1728,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1729,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1730,Aspin,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1731,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1732,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1733,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1734,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1735,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1736,Poodle,1,Sit,3.2,Basic,Needs More Guidance,Medium Sessions
+1737,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1738,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1739,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1740,Pug,21,Off Leash Sit,4.4,Advanced,Quick Learner,Short Sessions
+1741,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1742,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1743,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1744,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1745,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1746,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1747,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1748,Poodle,1,Sit,3.6,Basic,Needs More Guidance,Medium Sessions
+1749,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1750,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1751,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1752,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1753,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1754,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1755,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1756,Aspin,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1757,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1758,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1759,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1760,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1761,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1762,Poodle,1,Sit,3.8,Basic,Needs More Guidance,Medium Sessions
+1763,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1764,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1765,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1766,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1767,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1768,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1769,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1770,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1771,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1772,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1773,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1774,Aspin,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1775,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1776,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1777,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1778,Chihuahua,9,Fetch,3.9,Intermediate,Quick Learner,No strict preference
+1779,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1780,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1781,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1782,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1783,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1784,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1785,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1786,Dalmatian,16,Off Leash Sit,2.7,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1787,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1788,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1789,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1790,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1791,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1792,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1793,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1794,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1795,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1796,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1797,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1798,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1799,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1800,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1801,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1802,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1803,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1804,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1805,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1806,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1807,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1808,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1809,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1810,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1811,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1812,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1813,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1814,Pug,21,Off Leash Sit,1.9,Advanced,Quick Learner,Short Sessions
+1815,Dalmatian,6,Heel,5,Basic,Working on Tricks,Multiple Short Sessions per Day
+1816,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1817,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1818,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1819,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1820,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1821,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1822,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1823,Dalmatian,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1824,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1825,Poodle,1,Sit,3,Basic,Needs More Guidance,Medium Sessions
+1826,Chihuahua,9,Fetch,3,Intermediate,Quick Learner,No strict preference
+1827,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1828,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1829,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1830,Dalmatian,6,Heel,1.8,Basic,Working on Tricks,Multiple Short Sessions per Day
+1831,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1832,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1833,Labrador Retriever,20,Off Leash Sit Stay,1.2,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1834,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1835,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1836,Pomeranian,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1837,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1838,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1839,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1840,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1841,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1842,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1843,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1844,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1845,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1846,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1847,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1848,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1849,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1850,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1851,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1852,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1853,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1854,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1855,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1856,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1857,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1858,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1859,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1860,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1861,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1862,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1863,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1864,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1865,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1866,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1867,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1868,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1869,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1870,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1871,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1872,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1873,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1874,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1875,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1876,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1877,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1878,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1879,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1880,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1881,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1882,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1883,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1884,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1885,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1886,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1887,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1888,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1889,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1890,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1891,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1892,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1893,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1894,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1895,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1896,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1897,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1898,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1899,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1900,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1901,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1902,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1903,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1904,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1905,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1906,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1907,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1908,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1909,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1910,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1911,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1912,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1913,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1914,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1915,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1916,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1917,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1918,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1919,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1920,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1921,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1922,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1923,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1924,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1925,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1926,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1927,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1928,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1929,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1930,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1931,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1932,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1933,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1934,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1935,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1936,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1937,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1938,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1939,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1940,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1941,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1942,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1943,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1944,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1945,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1946,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1947,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1948,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1949,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1950,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1951,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1952,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1953,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1954,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1955,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1956,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1957,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1958,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1959,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1960,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1961,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1962,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1963,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1964,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1965,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1966,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1967,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1968,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1969,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1970,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1971,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1972,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1973,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1974,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1975,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1976,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1977,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1978,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1979,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1980,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+1981,German Shepherd,20,Off Leash Sit,3.3,Advanced,Focused but Distractible,Long Sessions
+1982,Beagle,22,Off Leash Down Stay,3.4,Advanced,Quick Learner,Short Sessions
+1983,German Shepherd,8,Play Dead,4,Intermediate,Very Responsive,Long Sessions
+1984,Pug,21,Off Leash Sit,4,Advanced,Quick Learner,Short Sessions
+1985,Dalmatian,6,Heel,2.1,Basic,Working on Tricks,Multiple Short Sessions per Day
+1986,Golden Retriever,15,On and Off Sight Stay,4.9,Advanced,Confident Learner,Long Sessions
+1987,Chihuahua,3,Sit,5,Basic,Quick Learner,Medium Sessions
+1988,Labrador Retriever,20,Off Leash Sit Stay,5,Advanced,Needs More Guidance,Multiple Short Sessions per Day
+1989,Chihuahua,10,Shake Hands,4,Intermediate,Confident Learner,No strict preference
+1990,Golden Retriever,19,Long Stay Off Leash,1.6,Advanced,Focused but Distractible,Long Sessions
+1991,Aspin,6,Sit Stay,4.4,Basic,Confident Learner,Medium Sessions
+1992,Pomeranian,18,Long Stay Off Leash,4,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1993,Dalmatian,21,Off Leash Down Stay,4.3,Advanced,Very Responsive,Short Sessions
+1994,Chihuahua,16,Off Leash Sit,2.9,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1995,Beagle,8,Roll Over,4,Intermediate,Focused but Distractible,Medium Sessions
+1996,Beagle,10,Loose Leash Walking,3.7,Intermediate,Focused but Distractible,Medium Sessions
+1997,Pug,20,Long Stay Off Leash,2.3,Advanced,Very Responsive,Medium Sessions
+1998,Pomeranian,19,On and Off Sight Stay,5,Advanced,Working on Tricks,Multiple Short Sessions per Day
+1999,Rottweiler,18,Off Leash Down Stay,5,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+2000,Aspin,16,Off Leash Sit,2,Advanced,Focused but Distractible,Multiple Short Sessions per Day
+2001,Poodle,22,Sit,3.9,Advanced,Quick Learner,Long Sessions

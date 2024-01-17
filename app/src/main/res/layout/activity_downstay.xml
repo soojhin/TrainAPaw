@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".downstay">
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="87dp"
+        android:text="Down Stay Training"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView40"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="59dp"
+        android:gravity="center"
+        android:text="Lure and reward\n Hold a treat near your dog's nose and slowly move it backward towards the floor, saying &quot;Down&quot; in a calm, encouraging voice. As their head follows the treat, gently guide their elbows down until they lie in a relaxed position. Immediately reward with the treat and praise enthusiastically."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView39" />
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:gravity="center"
+        android:text="Hand signal\n Introduce a hand signal as you say &quot;Down,&quot; such as extending your palm facing down towards the floor. This helps solidify the command visually."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView40" />
+
+    <TextView
+        android:id="@+id/textView42"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54dp"
+        android:gravity="center"
+        android:text="Release cue\n Once your dog consistently goes down with the lure and hand signal, add a &quot;release&quot; cue like &quot;Okay&quot; or &quot;Come&quot; to signal the end of the stay. Reward and release after a short stay (a few seconds initially)."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView41" />
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="56dp"
+        android:gravity="center"
+        android:text="Gradually increase duration\n As your dog masters short stays, gradually increase the time you expect them to remain in position. Start with 5 seconds and work your way up to minutes over time. Be patient and reward progress at each step."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView42" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54dp"
+        android:text="Distance increases\n Once your dog holds a down stay for a desired duration, take a small step back, maintaining eye contact and saying &quot;Stay.&quot; Reward continued staying with treats and praise. Gradually increase the distance over time."
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView43" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".intro"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="256dp"
+        android:layout_height="299dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/illustrationdog" />
+
+    <Button
+        android:id="@+id/btnNextIntro"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:fontFamily="@font/montserrat"
+        android:text="NEXT"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/tvIntro"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="47dp"
+        android:fontFamily="@font/montserrat"
+        android:text="With TrainaPaw, we will discover the magic of calm outdoor adventures with our furry crew."
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvIntro1"
+        app:layout_constraintStart_toStartOf="@+id/tvIntro1"
+        app:layout_constraintTop_toBottomOf="@+id/tvIntro1" />
+
+    <TextView
+        android:id="@+id/tvIntro1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="34dp"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="Welcome to our canine kingdom, \nwhere tails wag and treats abound. \nGet ready for a barktastic time together!"
+        android:textColor="#000"
+        android:textSize="16sp"
+        app:flow_horizontalAlign="center"
+        app:layout_constraintEnd_toEndOf="@+id/imageView4"
+        app:layout_constraintStart_toStartOf="@+id/imageView4"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+</androidx.constraintlayout.widget.ConstraintLayout>

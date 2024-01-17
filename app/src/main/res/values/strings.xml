@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TrainaPaw</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="verification_email_sent">Verification email has been sent.</string>
+    <string name="already_verified">Email is already verified, please proceed to sign in.</string>
+
+    <string name="notification_channel_name">TrainaPaw Training Channel</string>
+    <string name="upload_training">Please upload here any videos of your dog\'s progress in training</string>
+    <string name="sit_training">This command teaches your dog to sit down on its haunches. It\'s a fundamental command and is often one of the first commands taught to a dog. It is useful for various situations, such as when you want your dog to remain calm or before crossing the street.</string>
+    <string name="stay_training">The stay command instructs your dog to remain in a specific position until given further instructions. It\'s crucial for safety and control, especially in situations where you want your dog to stay put, such as when opening a door or crossing a busy road.</string>
+    <string name="come_training">The come command is used to call your dog back to you. It is important for getting your dog\'s attention and ensuring they return to you promptly, providing a way to keep your dog close and under control.</string>
+    <string name="down_training">Similar to sit, the down command instructs your dog to lie down. This command can be useful in situations where you want your dog to stay in a relaxed position, such as when guests arrive.</string>
+    <string name="heel_training">Heel is used to have the dog walk close to the owner\'s side without pulling on the leash. It promotes loose-leash walking and better control during walks, ensuring your dog walks calmly beside you.</string>
+    <string name="terms_and_conditions">I agree to TrainaPaw Mobile Application\'s Terms and Conditions</string>
+    <string name="socialization">Would you like to provide socialization training for your dog?</string>
+    <string name="basiccommand">Do you want to teach your pet Basic Commands?</string>
+    <string name="clicker">Would you like to train your dog using clicker training?</string>
+    <string name="clicker_description">Clicker training is a positive reinforcement method that fosters a strong bond between you and your pet. By associating the clicker sound with rewards, you can effectively communicate which behaviors are desired. The immediate reinforcement helps your pet learn quickly and enjoy the training process. With consistency and patience, clicker training can lead to well-behaved pets and a positive training experience for both the animal and the trainer.</string>
+
+    <string-array name="breeds">
+        <item>Aspin</item>
+        <item>Beagle</item>
+        <item>Bulldog</item>
+        <item>Chihuahua</item>
+        <item>Dalmatian</item>
+        <item>Doberman Pinscher</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriever</item>
+        <item>Labrador Retriever</item>
+        <item>Pomeranian</item>
+        <item>Poodle</item>
+        <item>Pug</item>
+        <item>Rottweiler</item>
+        <item>Shih Tzu</item>
+        <item>Siberian Husky</item>
+    </string-array>
+</resources>

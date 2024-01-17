@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="409dp"
+    android:layout_height="wrap_content"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp"
+    android:background="#FFFF">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".intro5">
+
+
+        <ImageView
+            android:layout_width="255dp"
+            android:layout_height="350dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/dog2printimage"
+            android:elevation="1dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="292dp"
+            android:layout_height="215dp"
+            android:background="@drawable/printsimage"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="249dp"
+            android:layout_height="216dp"
+            android:background="@drawable/prints2image"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="314dp"
+            android:layout_height="500dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/intro2bg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.561" />
+
+        <TextView
+            android:id="@+id/clickerQuestion1"
+            android:layout_width="277dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/montserrat"
+            android:text="Have you actively introduced your dog to a variety of people, environments, and other animals to ensure positive socialization experiences?"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.587" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="139dp"
+            android:layout_height="47dp"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.727">
+
+            <RadioButton
+                android:id="@+id/rbYesSocialization"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="Yes"
+                android:textColor="@color/black"
+                tools:layout_editor_absoluteX="28dp"
+                tools:layout_editor_absoluteY="736dp" />
+
+            <RadioButton
+                android:id="@+id/radioButtonNo1"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="No"
+                tools:layout_editor_absoluteX="114dp"
+                tools:layout_editor_absoluteY="746dp" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/btnNextIntro5"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/montserrat"
+            android:text="NEXT"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.825" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>

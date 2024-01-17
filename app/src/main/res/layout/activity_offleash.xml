@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".offleash">
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:text="Off Leash Down Stay Training"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="58dp"
+        android:text="Leash transition\n\n With your dog in a down stay on-leash, take a few steps back, gradually increasing distance while maintaining eye contact. Reward calm stays with treats and praise."
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView33" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="61dp"
+        android:text="Release cue\n\n Add a verbal cue like &quot;stay&quot; or &quot;wait&quot; as you step back. Gradually increase distance and duration of stays, rewarding consistently."
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView34" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Leash drop\n\n Once they reliably stay for short distances with the leash, try holding it in your hand instead of attaching it to their collar. Gradually let go of the leash completely, praising and treating for maintaining the stay. "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        android:gravity="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView35" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="57dp"
+        android:gravity="center"
+        android:text="Distraction introduction\n\n Once comfortable off-leash, slowly introduce distractions like toys, other dogs, or people walking by. Start with minimal distractions and gradually increase intensity as your dog's focus improves."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="73dp"
+        android:gravity="center"
+        android:text="Duration increases\n\n As your dog masters shorter stays, gradually extend the duration. Start with a few seconds, then slowly increase to minutes over time. Remember, progress takes time and patience."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView37" />
+</androidx.constraintlayout.widget.ConstraintLayout>

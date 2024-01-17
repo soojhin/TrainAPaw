@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".offleashsit">
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="59dp"
+        android:text="Off Leash Sit Training"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView46"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="59dp"
+        android:gravity="center"
+        android:text="Leash transition\n With your dog in a sit position on-leash, take a few steps back, gradually increasing distance while maintaining eye contact. Reward calm sits with treats and praise."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView45" />
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="63dp"
+        android:gravity="center"
+        android:text="Release cue\n Add a verbal cue like &quot;sit&quot; or &quot;stay&quot; as you step back. Gradually increase distance and duration of sits, rewarding consistently. "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView46" />
+
+    <TextView
+        android:id="@+id/textView48"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="59dp"
+        android:gravity="center"
+        android:text="Leash drop\n Once they reliably sit for short distances with the leash, try holding it in your hand instead of attaching it to their collar. Gradually let go of the leash completely, praising and treating for maintaining the sit."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView47" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="41dp"
+        android:gravity="center"
+        android:text="Distraction introduction\n Once comfortable off-leash, slowly introduce distractions like toys, other dogs, or people walking by. Start with minimal distractions and gradually increase intensity as your dog's focus improves."
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView48" />
+</androidx.constraintlayout.widget.ConstraintLayout>

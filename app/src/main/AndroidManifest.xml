@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:enableOnBackInvokedCallback="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TrainaPaw"
+        tools:targetApi="31">
+        <activity
+            android:name=".ClickerDescriptionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChooseSocializationTraining"
+            android:exported="false" />
+        <activity
+            android:name=".ChooseClickerTraining"
+            android:exported="false" />
+        <activity
+            android:name=".ChooseBasicCommands"
+            android:exported="false" />
+        <activity
+            android:name=".intro8"
+            android:exported="false" />
+        <activity
+            android:name=".intro7"
+            android:exported="false" />
+        <activity
+            android:name=".intro6"
+            android:exported="false" />
+        <activity
+            android:name=".intro5"
+            android:exported="false" />
+        <activity
+            android:name=".intro4"
+            android:exported="false" />
+        <activity
+            android:name=".offleashsit"
+            android:exported="false" />
+        <activity
+            android:name=".downstay"
+            android:exported="false" />
+        <activity
+            android:name=".offleash"
+            android:exported="false" />
+        <activity
+            android:name=".intro3"
+            android:exported="false" />
+        <activity
+            android:name=".BasicCommands"
+            android:exported="false" />
+        <activity
+            android:name=".Socialization"
+            android:exported="false" />
+        <activity
+            android:name=".UploadVideo"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileFragment"
+            android:exported="false" />
+        <activity
+            android:name=".splash4"
+            android:exported="false" />
+        <activity
+            android:name=".AlarmReminder"
+            android:exported="false" />
+        <activity
+            android:name=".splash3"
+            android:exported="false" />
+        <activity
+            android:name=".splash2"
+            android:exported="false" />
+        <activity
+            android:name=".VerifyEmailPage"
+            android:exported="false" />
+        <activity
+            android:name=".Clickertraining"
+            android:exported="false" />
+        <activity
+            android:name=".TrainingDetail2"
+            android:exported="false" />
+        <activity
+            android:name=".TrainingDetail"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="false" />
+        <activity
+            android:name=".WelcomePage"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterPage"
+            android:exported="false" />
+        <activity
+            android:name=".termsconditions"
+            android:exported="false" />
+        <activity
+            android:name=".dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".intro2"
+            android:exported="false" />
+        <activity
+            android:name=".intro"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <receiver android:name=".AlarmReceiver" />
+    </application>
+
+</manifest>

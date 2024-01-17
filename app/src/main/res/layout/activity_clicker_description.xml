@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screenbg"
+    tools:context=".ClickerDescriptionActivity">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="229dp"
+        android:layout_height="89dp"
+        android:fontFamily="@font/montserrat"
+        android:text="What Is Clicker Training?"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.087"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.059" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="358dp"
+        android:layout_height="452dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="@string/clicker_description"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView22" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

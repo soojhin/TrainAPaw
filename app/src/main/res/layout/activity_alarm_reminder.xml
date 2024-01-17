@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AlarmReminder">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="292dp"
+            android:layout_height="215dp"
+            android:background="@drawable/printsimage"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="249dp"
+            android:layout_height="216dp"
+            android:background="@drawable/prints2image"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <TextView
+            android:id="@+id/selectedTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="154dp"
+            android:text="00 : 00 PM"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="46dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="25dp"
+            android:layout_marginTop="29dp"
+            android:text="Please select time for your dog's training"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/selectedTime" />
+
+        <Button
+            android:id="@+id/selectedTimeBtn"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="26dp"
+            android:layout_marginTop="36dp"
+            android:text="Select Time"
+            android:textSize="26dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView21" />
+
+        <Button
+            android:id="@+id/setAlarmBtn"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="26dp"
+            android:layout_marginTop="8dp"
+            android:text="Set Alarm"
+            android:textSize="26dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/selectedTimeBtn" />
+
+        <Button
+            android:id="@+id/cancelAlarmBtn"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginHorizontal="26dp"
+            android:layout_marginTop="8dp"
+            android:text="Cancel Alarm"
+            android:textSize="26dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/setAlarmBtn" />
+
+        <Button
+            android:id="@+id/nextBtn"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:layout_marginHorizontal="135dp"
+            android:layout_marginTop="48dp"
+            android:fontFamily="@font/montserrat"
+            android:text="NEXT"
+            android:textSize="26dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cancelAlarmBtn" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="note: you can skip this part and add training later"-->
+<!--        android:layout_marginTop="50dp"-->
+<!--        android:layout_marginHorizontal="50dp"-->
+<!--        android:textAlignment="center"/>-->
+
+
+</LinearLayout>

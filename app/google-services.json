@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822813007914",
+    "project_id": "trainapaw-5a66f",
+    "storage_bucket": "trainapaw-5a66f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822813007914:android:7b8282b839b55f77982353",
+        "android_client_info": {
+          "package_name": "com.example.trainapaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_pW8jQmv1ctHdKbaUijQvgryvf3k_OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
